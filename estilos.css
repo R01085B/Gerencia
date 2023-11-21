@@ -17,7 +17,23 @@ body{
     max-width: 1200px;
     overflow: hidden;
     margin: auto;
+    padding: 60px 0;
+}
+
+.contenedorS11{
+    width: 90%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin: auto;
     padding: 600px 0;
+}
+
+.contenedorS12{
+    width: 90%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin: auto;
+    padding: 10px;
 }
 
 .header{
@@ -59,6 +75,17 @@ body{
       align-items: center;
       justify-content: center;
       height: 2200px;
+      font-size: 18px;
+      text-align: center;
+      text-align: justify;
+      font-family: Arial, sans-serif;
+}
+
+.text12{
+    display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 800px;
       font-size: 18px;
       text-align: center;
       text-align: justify;
@@ -117,7 +144,7 @@ body{
     font-size: 40px;
     text-align: center;
     font-weight: 300;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
 }
 
 .contenedor-servicio{
